@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Carey/development/workspace/CSE110_TEAM6/commons-codec-1.9-javadoc.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Carey/development/workspace/CSE110_TEAM6/commons-codec-1.9-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Carey/development/workspace/CSE110_TEAM6/commons-codec-1.9-test-sources.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Carey/development/workspace/CSE110_TEAM6/commons-codec-1.9-tests.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Carey/development/workspace/CSE110_TEAM6/commons-codec-1.9.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Carey/development/workspace/CSE110_TEAM6/javax.mail.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Carey/development/workspace/CSE110_TEAM6/mysql-connector-java-5.1.33-bin.jar"/>
+	<classpathentry exported="true" kind="lib" path="/Users/Carey/development/workspace/CSE110_TEAM6/bcprov-jdk15on-151.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
